@@ -1,0 +1,36 @@
+@charset "utf-8";
+.Maintext {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.Headers {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+#Container {
+	clear: both;
+	width: 900;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-align: left;
+}
+a {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #0ab3ce;
+	text-decoration: underline blink;
+}
+.visiting {
+	color: #0c6a78;
+}
+body {
+	text-align: center;
+	background-color: #d6e5f7;
+}
+a:hover {
+	color: #1796a9;
+}
+table, th, td {
+	height: 31px;
+	border: 1px solid;
+	border-collapse: collapse;
+}
