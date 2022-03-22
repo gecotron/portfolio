@@ -11,7 +11,7 @@ function PlaywthText() {
   document.getElementById('descID').innerHTML="I've heard that Other M was a bad game, But I liked this quote alot, so I thought I would put it in"
 }
 function HeadSpace() {
-  document.getElementById('imgID').src='images/HeadSpace.jpg'
+  document.getElementById('imgID').src='images/Headspace.png'
   document.getElementById('descID').innerHTML="This was a lot of fun to make, it was very fun to find the stuff that fills my head, <br> but I had to stop myself in the end, because there would be too much to see"
 }
 function Movie() {
